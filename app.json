@@ -1,0 +1,2 @@
+{ "expo": { "name": "Pustaka", "slug": "pustaka", "version": "1.0.0", "orientation": "portrait",
+  "userInterfaceStyle": "automatic", "android": { "package": "com.pustaka.reader" } } }
